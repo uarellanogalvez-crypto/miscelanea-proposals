@@ -1,0 +1,1 @@
+Clientes proposals structure
